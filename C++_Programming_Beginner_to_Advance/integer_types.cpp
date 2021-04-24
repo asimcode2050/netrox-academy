@@ -15,13 +15,6 @@ int main(){
       cout << "Short size in Bytes : " << sizeof(myShort) << endl;
       cout << "Int size in Bytes : " << sizeof(myInt) << endl;
       cout << "Long size in Bytes : " << sizeof(myLong) << endl;
-
-
-
-
-
-
-
-
-    return 0;
+  
+      return 0;
 } 
